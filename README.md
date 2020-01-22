@@ -1,4 +1,4 @@
-# Hash Value Format Validation
+# Hash Value Format Validation Performance
 
 In this repository the performance of various methods is measured of checking if a string contains a valid hash value.
 
