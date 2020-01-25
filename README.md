@@ -354,7 +354,7 @@ Note: Each sample exists twice; one in uppercase and one in lowercase.
 The performance was just tested for valid hash values, because it almost never occures that an value
 stores an invalid hash value. In my case validation is used just to ensure that data is not corrupted or malformed.
 
-Maybe some of the osther methods performs better if the portion of invalid samples is higher; although I don't believe that.
+Maybe some of the other methods performs better if the portion of invalid samples is higher; although I don't believe that.
 
 ## License
 
