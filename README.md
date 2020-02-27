@@ -4,6 +4,8 @@ In this repository the performance of various methods is measured of checking if
 
 ## Measurements
 
+⚠️ WARNING: The current Benchmark results may be inaccurate. Because of key learning i recently made in C# Benchmarking. I will rework the code and will publish the results in a few weeks. (This Statement is from 27.02.2020)
+
 ### What is a valid hash value?
 
 A valid hash value is described by the following regular expressions ([PCRE syntax](https://www.pcre.org/current/doc/html/pcre2syntax.html)):
